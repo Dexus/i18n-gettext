@@ -1,5 +1,7 @@
 # i18n-abide
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Dexus/i18n-gettext.svg)](https://greenkeeper.io/)
+
 This module **abides by the user's language preferences** and makes it available
 throughout the app.
 

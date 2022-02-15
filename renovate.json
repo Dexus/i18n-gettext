@@ -2,6 +2,9 @@
   "extends": [
     "config:base"
   ],
+  "major": {
+    "dependencyDashboardApproval": true
+  },
   "commitBody": "[skip ci]",
   "packageRules": [
     {

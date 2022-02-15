@@ -20,7 +20,7 @@
     "node": ">= 0.6.2"
   },
   "dependencies": {
-    "node-gettext": "*"
+    "node-gettext": "^2.0.0"
   },
   "licenses": [
     {
